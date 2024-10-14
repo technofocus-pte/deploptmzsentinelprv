@@ -10,6 +10,6 @@ The deployment phase is typically performed by a **SOC analyst** or related role
 
 **Labs are as follows**
 
-**Lab 1** - [Microsoft Sentinel Deployment](<https://github.com/technofocus-pte/sentineltpirdepth/blob/main/Lab%201/Lab%201%20-%20Microsoft%20Sentinel%20Deployment.md>)
+**Lab 1** - [Microsoft Sentinel Deployment](<https://github.com/technofocus-pte/deploptmzsentinelprv/blob/main/Lab%201/Lab%201%20-%20Microsoft%20Sentinel%20Deployment.md>)
 
 **Lab 2** – [Enable Data Connectors in Microsoft Sentinel](<https://github.com/technofocus-pte/sentineltpirdepth/blob/main/Lab%202/Lab%202%20%E2%80%93%20Enable%20Data%20Connectors%20in%20Microsoft%20Sentinel.md>)
