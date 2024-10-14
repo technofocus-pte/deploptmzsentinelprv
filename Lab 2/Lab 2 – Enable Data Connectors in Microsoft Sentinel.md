@@ -27,7 +27,7 @@ This exercise shows you how to enable Data connectors.
     ```https://portal.azure.com``` and search
     for ```Microsoft Sentinel``` and click on **Microsoft Sentinel**.
 
-    <kbd>![](./media/image32.png)</kbd> 
+    ![](./media/image32.png) 
 
 5.  Select **SentWrkspcXXXXXX**.
 
