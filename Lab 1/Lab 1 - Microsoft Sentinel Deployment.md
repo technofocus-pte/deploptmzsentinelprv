@@ -88,7 +88,7 @@ automatically generated](./media/image3a.png)
 
 **Task 2 - Configure Permissions on the Subscription**
 
-1.  In the **Azure Portal** `https://portal.azure.com` search box
+1.  In the Azure Portal `https://portal.azure.com` search box
     type `subscriptions` and then click **on Subscriptions**.
 
     ![A screenshot of a computer Description automatically
